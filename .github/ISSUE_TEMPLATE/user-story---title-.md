@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-As **person**, **I can** select paper sizes that **can** match
+As **user**,  I can **select paper sizes** so that  **I can match the label to the parcel size**
